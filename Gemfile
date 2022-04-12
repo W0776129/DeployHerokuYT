@@ -49,7 +49,7 @@ gem 'lograge', '~> 0.11.2'
 
 gem 'sentry-raven', '~> 3.1'
 
-gem 'barnes', '~> 0.0.8'
+gem 'barnes', '~> 0.0.9'
 
 gem 'sidekiq', '~> 6.1'
 
